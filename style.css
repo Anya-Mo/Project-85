@@ -1,0 +1,5 @@
+body{
+	background-image: url("Background.gif") !important;
+    background-position: center;
+    background-size: cover;
+}
